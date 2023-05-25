@@ -21,3 +21,11 @@ name = "block_on"
 
 [[example]]
 name = "interval_task"
+
+[[example]]
+name = "channel_task"
+
+[[example]]
+name = "scheduled_task"
+
+[[example]]
